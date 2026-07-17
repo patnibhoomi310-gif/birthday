@@ -2,8 +2,7 @@
 // PAGE NAVIGATION
 // ===============================
 
-document.getElementById("testBtn").addEventListener("click", function () {
-    alert("Button Clicked");
+ function () {
     window.location.href = "cake.html";
 });
 
