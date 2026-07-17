@@ -2,7 +2,7 @@
 // PAGE NAVIGATION
 // ===============================
 function go() {
-    window.location.href = "cake.html";
+    window.location.href = page;
 }
 
 
