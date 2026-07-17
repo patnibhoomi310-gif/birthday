@@ -1,11 +1,8 @@
 // ===============================
 // PAGE NAVIGATION
 // ===============================
-
-function go(page){
-    <button class="next-btn" onclick="go('cake.html')">
-    Final Surprise 🎁
-</button>
+function go() {
+    window.location.href = "cake.html";
 }
 
 
