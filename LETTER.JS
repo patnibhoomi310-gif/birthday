@@ -3,7 +3,9 @@
 // ===============================
 
 function go(page){
-    window.location.href = "cake.html";
+    <button class="next-btn" onclick="go('cake.html')">
+    Final Surprise 🎁
+</button>
 }
 
 
