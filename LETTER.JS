@@ -3,7 +3,7 @@
 // ===============================
 
 function go(page){
-    window.location.href = page;
+    window.location.href = "cake.html";
 }
 
 
