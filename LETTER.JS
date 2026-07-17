@@ -2,9 +2,10 @@
 // PAGE NAVIGATION
 // ===============================
 
-function go(page){
-    window.location.href = page;
-}
+document.getElementById("testBtn").addEventListener("click", function () {
+    alert("Button Clicked");
+    window.location.href = "cake.html";
+});
 
 
 // ===============================
